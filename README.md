@@ -18,7 +18,11 @@ Turn into this:
 
 ![backers_cleaned.png](backers_cleaned.png)
 
-A more visually friendly approach to collect the information to use it with a query language program. 
+A more visually friendly approach to collect the information and use it with a query language program. 
+
+From this, it could be assigned the relationships and create new tables with useful information. 
+
+
 
 
   
